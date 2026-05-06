@@ -64,8 +64,7 @@ As an admin, I want to manage student accounts so that I can control system acce
 
 ## Project Document
 Full report:  
-[ELCMS_Business_Analysis_Report.pdf](./ELCMS_Business_Analysis_Report.pdf)
-
+[Business Analysis Report](./docs/english-language-center-management-system-ba-report.pdf)
 ---
 
 ## Author
