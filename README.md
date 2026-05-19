@@ -55,13 +55,6 @@ As an admin, I want to manage student accounts so that I can control system acce
 
 ---
 
-## System Design
-- Frontend: Web
-- Backend: API
-- Database: SQL
-
----
-
 ## Project Document
 Full report:  
 [Business Analysis Report](./docs/english-language-center-management-system-ba-report.pdf)
